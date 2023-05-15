@@ -2,16 +2,6 @@
 
 This is an opinionated react-native stack with Typescript, Expo Router, Tailwind(Nativewind) & Zustand
 
-## 🚀 Quickstart
-
-```sh
-npx degit aviavinav/chai my-project
-
-cd my-project && yarn install
-
-yarn start
-```
-
 ## 🛠️ Tools
 
 - [Expo Router](https://github.com/expo/router): The File-based router for universal React Native apps.
